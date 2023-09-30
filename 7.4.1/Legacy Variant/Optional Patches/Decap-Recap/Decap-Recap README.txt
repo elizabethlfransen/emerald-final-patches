@@ -1,0 +1,1 @@
+By default, Emerald Final has the unnecessary FULLY CAPITALIZED proper nouns put into the Proper Case, however some miss the look of that so this patch restores it. Note: The additional text I have added will not be re-capitalized.

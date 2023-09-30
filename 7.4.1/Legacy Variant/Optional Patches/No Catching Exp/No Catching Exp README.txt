@@ -1,0 +1,1 @@
+Emerald Final has a feature that gives Exp for catching Pokemon, however this causes a (harmless) visual glitch sometimes when showing a new pokedex entry. This option removes the feature entirely so no catching exp, no glitch.

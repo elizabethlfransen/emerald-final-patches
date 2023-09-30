@@ -1,0 +1,1 @@
+The Berries No Longer Disappear option makes planted Berries regrow indefinitely. In vanilla, they can only regrow so many times before disappearing.

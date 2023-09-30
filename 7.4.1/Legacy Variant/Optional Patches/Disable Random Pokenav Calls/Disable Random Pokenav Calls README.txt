@@ -1,0 +1,1 @@
+The Disable Pokenav Calls option makes the random calls you get from other trainers no longer happen.

@@ -1,0 +1,1 @@
+The Auto Nickname Case option makes it so when you go to Nickname a Pokemon, after inputting the first letter, it automatically switches to Lowercase.

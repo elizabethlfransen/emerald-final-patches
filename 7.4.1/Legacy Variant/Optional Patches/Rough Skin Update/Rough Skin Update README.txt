@@ -1,0 +1,1 @@
+This patch updates the Rough Skin ability to operate like later gens. Attacks making physical contact with a Pokemon with the Rough Skin ability will cause the damage equal to 1/8 their total HP (vanilla 1/16).

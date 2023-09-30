@@ -1,0 +1,1 @@
+The Move Stats options change the Accuracy, Power, and PP of moves to different generations' settings. Each option's list of Move Stats are in the Documentation folder.

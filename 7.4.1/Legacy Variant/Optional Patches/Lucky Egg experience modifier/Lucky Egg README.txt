@@ -1,0 +1,1 @@
+This patch changes the Lucky Egg's experience modifier to 2.5 (vanilla 1.5) when held by a pokemon.

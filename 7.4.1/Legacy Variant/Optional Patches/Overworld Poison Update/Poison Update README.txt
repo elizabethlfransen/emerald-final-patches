@@ -1,0 +1,1 @@
+The Poison Update makes the poison damage your Pokemon take outside of battle every four steps stop at 1 HP, and fades away. 

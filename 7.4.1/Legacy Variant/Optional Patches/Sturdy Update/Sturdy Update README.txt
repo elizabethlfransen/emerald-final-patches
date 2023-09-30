@@ -1,0 +1,1 @@
+The Sturdy Update makes the ability Sturdy function like it does in later generations. In Gen 3, Sturdy only prevents one-hit KO moves like Horn Drill and Sheer Cold from working. In later generations, it also prevents a pokemon from being knocked out from a single attack at full health, just like a Focus Band.

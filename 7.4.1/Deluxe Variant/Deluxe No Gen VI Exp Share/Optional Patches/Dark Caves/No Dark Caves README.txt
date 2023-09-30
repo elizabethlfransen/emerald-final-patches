@@ -1,0 +1,1 @@
+This patch makes the two caves that normally are dark and require Flash (Granite Cave and Victory Road) have normal light levels. This does NOT affect the Dewford Gym, Battle Pyramid, or the third Trick House Puzzle.

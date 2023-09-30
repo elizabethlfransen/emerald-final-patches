@@ -1,0 +1,1 @@
+This is exactly what it sounds like. Pokemon in the Safari Zone won't flee. But if you're actually reading this, I sincerely thank you for taking the time to read the documentation!
