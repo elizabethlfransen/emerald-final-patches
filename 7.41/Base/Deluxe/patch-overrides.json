@@ -1,0 +1,11 @@
+{
+    "type": "toggle",
+    "options": {
+        "true": {
+            "children": "Deluxe No Gen VI Exp Share"
+        },
+        "false": {
+            "children": "Deluxe With Gen VI Exp Share"
+        }
+    }
+}
