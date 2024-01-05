@@ -1,5 +1,8 @@
 {
+    "name": "Gen VI Exp Share",
+    "id": "genVIExpShare",
     "type": "toggle",
+    "children": "Optional Patches",
     "options": {
         "true": {
             "children": "Deluxe No Gen VI Exp Share"
