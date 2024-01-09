@@ -1,0 +1,3 @@
+Pick one of these three patches depending on which wild encounter list you want. Vanilla wilds... Has the Vanilla Wilds, Vanilla Wilds Plus includes version exclusives from Ruby/Sapphire. New Wilds has all 386 pokemon available. Do NOT patch more than one of these main patches to the same ROM. Do optional patches after.
+
+Legacy does NOT have anything from Generation 4 so no Leafeon or Electivire or Leaf Guard or Motor Drive.
